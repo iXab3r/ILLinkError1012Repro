@@ -5,11 +5,9 @@
     </PropertyGroup>
 
     <PropertyGroup>
-        <DebugType>embedded</DebugType>
         <RuntimeIdentifier>win-x64</RuntimeIdentifier>
         <PublishTrimmed>true</PublishTrimmed>
         <TrimMode>copyused</TrimMode>
-        <SuppressTrimAnalysisWarnings>false</SuppressTrimAnalysisWarnings>
     </PropertyGroup>
 
     <ItemGroup>
